@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 30vh;
+}
+
+img {
+  max-width: 30%; /* Set the maximum width of the image to 50% of its container */
+  height: auto;
+}
+
+.coming-soon {
+  color: gold;
+  text-align: center;
+}
